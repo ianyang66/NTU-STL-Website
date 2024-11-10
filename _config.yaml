@@ -8,12 +8,12 @@ proofer: false
 
 # site social media and other links
 links:
-  email: f11921091@ntu.edu.tw
-  orcid: 0000-0002-0425-6500
-  google-scholar: iCdd6fAAAAAJ
-  github: ianyang66
-  twitter: None
-  youtube: None
+  # email: farn@ntu.edu.tw
+  # orcid: 0000-0002-0425-6500
+  # google-scholar: iCdd6fAAAAAJ
+  # github: ianyang66
+  #twitter: None
+  #youtube: None
 
 ### jekyll settings
 
