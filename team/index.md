@@ -24,7 +24,7 @@ Alumnus (過去成員)
 {% capture content %}
 
 陳芮甯(Luana Chen)
-{% include figure.html image="images/photo.jpg" %}
+{% include list.html data="alumnus" component="portrait" filter="role == 'pi'" %}
 陳兆閔(asef18766)
 {% include figure.html image="images/photo.jpg" %}
 黃浩然(Angus Wong)
